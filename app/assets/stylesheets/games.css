@@ -1,0 +1,43 @@
+.form-input {
+  height: 35px;
+  margin: auto;
+  border-radius: 5px;
+  font-size: 20px;
+}
+
+.btn btn-primary {
+  height: 35px;
+  margin: auto;
+  border-radius: 5px;
+  color: black;
+  font-weight: bold;
+  font-size: 20px;
+  align-content: center;
+}
+
+.btn-primary {
+  color: #212529;
+  background-color: lavender;
+  border-color: grey;
+}
+
+ul {
+  display: inline-block;
+  padding: 0;
+  margin: .5rem;
+  text-align: center;
+  background-color: white;
+}
+li {
+  display: inline;
+}
+
+h1 {
+  text-align: left;
+  padding: 10px;
+}
+
+p {
+  text-align: left;
+  padding: 10px;
+}
